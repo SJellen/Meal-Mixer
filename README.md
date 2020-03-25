@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-![screenshot](https://github.com/SJellen/Drumkit/blob/master/screenshot.png)
+![screenshot](https://github.com/SJellen/Meal-Mixer/blob/master/resources/screenshot.png)
 
 > Randon meal generator.
 
